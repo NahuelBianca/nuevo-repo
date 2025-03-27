@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cambios
+=======
+hola mundo
+>>>>>>> nuevo-archivo
